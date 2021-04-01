@@ -3,3 +3,7 @@ canvas {
     background-color: rgb(255, 255, 255);
     margin: auto;
 }
+body {
+    background-color: darkslateblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
