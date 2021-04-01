@@ -3,12 +3,28 @@ canvas {
     background-color: rgb(255, 255, 255);
     margin: auto;
 }
-body {
-    background-color: #E9EAEC;
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #90ADC6;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
     color: #333652;
+    margin: 0;
 }
 
 header {
     background-color: #FAD02C;
+    width: 100%;
+    margin: 0;
+    padding: 0.5em;
+}
+
+header h1 {
+    font-size: 4em;
+
+}
+
+main {
+    padding: 5%;
 }
