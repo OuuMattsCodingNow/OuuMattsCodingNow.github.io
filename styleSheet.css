@@ -4,6 +4,11 @@ canvas {
     margin: auto;
 }
 body {
-    background-color: darkslateblue;
+    background-color: #E9EAEC;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #333652;
+}
+
+header {
+    background-color: #FAD02C;
 }
