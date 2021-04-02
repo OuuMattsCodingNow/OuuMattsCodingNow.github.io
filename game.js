@@ -5,8 +5,8 @@ const myGameArea = {
     gridDimY: 0,
     possibleMoves: {x:[], y:[]},
     start: function() {
-        this.canvas.width = 1200;
-        this.canvas.height = 1200;
+        this.canvas.width = 1000;
+        this.canvas.height = 1000;
         this.context = this.canvas.getContext("2d");
         document.body.appendChild(this.canvas)
     }
